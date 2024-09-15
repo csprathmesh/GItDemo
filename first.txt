@@ -1,3 +1,4 @@
 hello world
+
 line no 2 -- this is a conflict
 line no 34
